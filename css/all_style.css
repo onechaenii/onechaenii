@@ -1,0 +1,111 @@
+/*21861128_한채연*/
+
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Crimson Text','Noto Serif KR', serif;
+  background-color: #fffcf9;
+
+ }
+
+#page_size {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: none;
+  padding: 0;
+}
+
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+
+}
+
+.topnav .nav_a {
+  padding-top: 12px;
+}
+
+
+.topnav a:hover {
+  color: black;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+.topnav .nav_a .active {
+
+  color: black;
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+}
+
+#main_menu {
+
+  border-top: solid 2px black;
+    border-bottom: solid 2px black;
+  padding: 0;
+}
+
+.Logo {
+  float: left;
+  padding: 0;
+}
+
+footer .footer {
+
+    height: 100px;
+    border-top:  solid 2px black;
+    padding-top: 50px;
+    float: left;
+    width: 1440px;
+}
+
+footer .footer_logo {
+  float: left;
+}
+
+footer #address {
+  float: left;
+  padding-top: 12px;
+  list-style: none;
+  margin-left: 380px;
+  line-height: 2;
+
+}
+
+footer #footer_sns {
+  float: right;
+}
+
+footer #footer_sns li {
+  display: inline;
+  padding: 0 10px 0 0;
+}
+
+#footer_sns img {
+  width: 32px;
+  height: 32px;
+  padding-top: 12px;
+}
+
+.intro_main p {
+  font-size: 194px;
+  font-weight: 400;
+text-align: center;
+  margin: 0 0 32px 0;
+
+}

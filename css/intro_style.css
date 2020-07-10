@@ -1,0 +1,108 @@
+/*21861128_한채연*/
+
+.me {
+  width: 350px;
+  height: 1180px;
+  border-right: solid 2px black;
+  display: inline-block;
+
+}
+
+.name h1 {
+  font-size: 80px;
+  padding: 56px 0 0 0;
+font-weight: 600;
+}
+
+.name p {
+  width: 290px;
+  word-break: keep-all;
+  font-size: 18px;
+  line-height: 2;
+  margin: 36px 0 60px 0;
+
+}
+
+.name {
+  border-bottom: solid 2px black;
+}
+
+.name2 h3 {
+  font-size: 48px;
+  margin: 56px 0 32px 0;
+  font-weight: 600;
+}
+
+
+.table th {
+  padding: 56px 0 16px 0;
+  font-weight: 600;
+  font-size: 28px;
+  text-align: left;
+}
+.table td {
+  font-size: 18px;
+  font-weight: 400;
+
+}
+
+#me_intro {
+  float: left;
+  display: inline;
+}
+
+#photo {
+
+  width: 780px;
+  height: 1180px;
+  border-right: solid 2px black;
+  float: left;
+}
+.selfie img{
+  width: 724px;
+  height: 636px;
+  margin: 28px 0 0 28px;
+}
+.selfie_text h3 {
+  margin: 56px 0 0 28px;
+  font-size: 48px;
+}
+
+.selfie_text p {
+    width: 700px;
+    margin: 36px 0 0 28px;
+    font-size: 18px;
+    line-height: 2;
+    word-break: keep-all;
+
+}
+
+.program h3 {
+    font-size: 48px;
+    margin: 56px 0 32px 0;
+    padding-left: 32px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.table2 {
+  padding: 32px;
+}
+
+.table2 th {
+  padding: 56px 0 16px 0;
+  font-weight: 600;
+  font-size: 28px;
+  text-align: left;
+}
+.table2 td {
+  font-size: 18px;
+  font-weight: 400;
+
+}
+
+.line {
+  width:640;
+   height:120px;
+   padding: 50px 0 0 181px;
+}

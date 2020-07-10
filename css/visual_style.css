@@ -1,0 +1,110 @@
+/*21861128_한채연*/
+
+.shape {
+  width: 220px;
+  height: 1300px;
+  border-right: solid 2px black;
+  display: inline-block;
+  float: left;
+}
+
+.shape_write  {
+  width: 80px;
+
+}
+.shape_write h1 {
+  font-size: 68px;
+  padding: 56px 0 0 60px;
+  font-weight: 400;
+}
+
+.motion {
+  float: left;
+  height: 700px;
+}
+
+.gif {
+  width: 1218px;
+  height: 700px;
+}
+
+.mia {
+
+  width: 800px;
+  height: 600px;
+  float: left;
+  border-right: solid 2px black;
+  padding: 0;
+  margin: 0;
+}
+
+.mia_info h2 {
+  font-size: 48px;
+  margin: 80px 0 32px 48px;
+  font-weight: 600;
+}
+
+.space_mia {
+  margin: 0 0 0 60px;
+  width: 289px;
+  height: 368px;
+  float: left;
+}
+
+.mia_p {
+  display: inline;
+  float: left;
+}
+
+.mia_p p {
+
+  width: 300px;
+margin: 58px 0 0 58px;
+  font-size: 18px;
+  line-height: 2;
+  word-break: keep-all;
+}
+
+.ship {
+  float: left;
+}
+
+.ship_img h2 {
+  font-size: 48px;
+  margin: 80px 0 32px 48px;
+  font-weight: 600;
+  float: left;
+  display: inline;
+}
+
+.img_space {
+  width: 280px;
+  height: 280px;
+  margin-left: 50px;
+  display: inline;
+}
+
+.space_p  p{
+  font-size: 18px;
+  font-weight: 400;
+margin-left: 80px;
+}
+
+.move_img {
+  float: left;
+}
+.move_img2 {
+  font-size: 0;
+}
+
+
+.move_img img{
+  width: 1218px;
+    height: 800px;
+    margin-left: 220px;
+}
+.move_img2 img{
+  width: 1218px;
+  font-size: 0;
+    margin-left: 220px;
+}
